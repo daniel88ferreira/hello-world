@@ -5,4 +5,5 @@ print "nice"
 
 result = 2+4
 
-print "Result: " + result
+print "Result: " + str(result)
+
