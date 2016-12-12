@@ -2,3 +2,7 @@
 
 print "Hello"
 print "nice"
+
+result = 2+4
+
+print "Result: " + result
